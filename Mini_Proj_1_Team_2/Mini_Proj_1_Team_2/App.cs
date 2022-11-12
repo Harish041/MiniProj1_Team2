@@ -17,8 +17,8 @@ namespace Mini_Proj_1_Team_2
 
             AppEngine a1 = new AppEngine();
 
-           // Console.WriteLine("enter how many details want to store and maximum limit is 5");
-            //int input = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter how many details want to store and maximum limit is 5");
+            int input = Convert.ToInt32(Console.ReadLine());
             Course c = new Course();
             // a1.register(input);
             //a1.introduce(input);
