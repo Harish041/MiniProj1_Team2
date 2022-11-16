@@ -1,7 +1,0 @@
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\bin\Debug\Mini_Proj_1_Team_2.exe.config
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\bin\Debug\Mini_Proj_1_Team_2.exe
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\bin\Debug\Mini_Proj_1_Team_2.pdb
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\obj\Debug\Mini_Proj_1_Team_2.csproj.CoreCompileInputs.cache
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\obj\Debug\Mini_Proj_1_Team_2.exe
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\obj\Debug\Mini_Proj_1_Team_2.pdb
-D:\MiniProj1Team2\Mini_Proj_1_Team_2\Mini_Proj_1_Team_2\obj\Debug\Mini_Proj_1_Team_2.csproj.AssemblyReference.cache
