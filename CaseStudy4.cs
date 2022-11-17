@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
@@ -325,7 +325,7 @@ namespace MiniProjTeam2_1
                 SqlCommand cmd2;
                 Console.WriteLine("Enter the student id");
                 student.ID = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Enter the student name");
+                //Console.WriteLine("Enter the student name");
                 Console.WriteLine("Enter the course id");
                 course.cid = Convert.ToInt32(Console.ReadLine());
                 Enroll e = new Enroll();
@@ -342,8 +342,9 @@ namespace MiniProjTeam2_1
                 else
                 {
                     Console.WriteLine("insertion failed....");
+                    Enroll(student, course);
                 }
-                Enroll(student, course);
+                
                 con.Close();
             }catch(FormatException fe)
             {
