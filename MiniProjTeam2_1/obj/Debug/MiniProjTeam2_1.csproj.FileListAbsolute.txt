@@ -1,7 +1,0 @@
-D:\Projects\MiniProjTeam2_1\bin\Debug\MiniProjTeam2_1.exe.config
-D:\Projects\MiniProjTeam2_1\bin\Debug\MiniProjTeam2_1.exe
-D:\Projects\MiniProjTeam2_1\bin\Debug\MiniProjTeam2_1.pdb
-D:\Projects\MiniProjTeam2_1\obj\Debug\MiniProjTeam2_1.csproj.AssemblyReference.cache
-D:\Projects\MiniProjTeam2_1\obj\Debug\MiniProjTeam2_1.csproj.CoreCompileInputs.cache
-D:\Projects\MiniProjTeam2_1\obj\Debug\MiniProjTeam2_1.exe
-D:\Projects\MiniProjTeam2_1\obj\Debug\MiniProjTeam2_1.pdb
